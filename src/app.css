@@ -1,0 +1,116 @@
+body{
+    /* background: rgb(24,92,102); */
+background: linear-gradient(176deg, rgba(24,92,102,1) 0%, rgba(167,223,255,1) 100%);
+}
+.background{
+    margin: 0px;
+    padding: 0 0 ;
+}
+.c1{
+    position: absolute;
+    height: 200px;
+    top: 0px;
+    left: 110%;    
+    background: transparent;
+
+}
+.c2{
+    position: absolute;
+    height: 150px;
+    top: 00px;
+    background: transparent;
+    left: 110%;    
+    }
+.c3{
+    position: absolute;
+    height: 100px;
+    background: transparent;
+    top: 00px;
+    left: 110%;
+    }
+    .c4{
+        position: absolute;
+        height: 150px;
+        background: transparent;
+        top: 00px;
+        left: 70%;    
+        }
+    .c5{
+        position: absolute;
+        height: 100px;
+        background: transparent;
+        top: 00px;
+        left: 30%;
+        }
+.line1{
+    background-color: wheat;
+    position: absolute;
+    height: 10px;
+    width: 250px;
+    top: 95%;
+    left: 110%;
+     }
+     .line2{
+        background-color: wheat;
+        position: absolute;
+        height: 10px;
+        width: 250px;
+        top: 95%;
+        left: 110%;
+        }
+    .line3{
+        background-color: wheat;
+        position: absolute;
+        height: 10px;
+        width: 250px;
+        top: 95%;
+        left: 110%;
+          }
+       .line4{
+        background-color: wheat;
+        position: absolute;
+        height: 10px;
+        width: 250px;
+        top: 95%;
+        left: 50%;
+        }
+    .line5{
+        background-color: wheat;
+        position: absolute;
+        height: 10px;
+        width: 250px;
+        top: 95%;
+        left: 100%;
+            }  
+    .line6{
+        background-color: wheat;
+        position: absolute;
+        height: 10px;
+        width: 250px;
+        top: 95%;
+        left: 0%;
+            } 
+.road{
+    position: absolute;
+    background-color: rgb(77, 92, 114);
+    height: 70px;
+    width: 100%;
+    top: 90%;
+    margin-left: 0px;
+    padding-left: 0px; 
+        } 
+.car1{ 
+    position: absolute;
+    top: 77%;
+    background: transparent;
+    left: 10%;
+    width: 300px;
+}
+.car2{
+    position: absolute;
+    background: transparent;
+    top: 77%;
+    left: 40%;
+    width: 300px;
+}
+
